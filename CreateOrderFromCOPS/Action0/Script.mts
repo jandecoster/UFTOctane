@@ -2,3 +2,4 @@
 RunAction "SelectEquipment", oneIteration
 RunAction "CreateOrder", oneIteration
 RunAction "dummy", oneIteration
+RunAction "dummy2", oneIteration

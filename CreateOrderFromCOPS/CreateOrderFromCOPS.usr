@@ -16,6 +16,7 @@ SelectEquipment=Action2\Script.mts
 CreateOrder=Action3\Script.mts
 SearchEquipment=Action1\Script.mts
 dummy=Action4\Script.mts
+dummy2=Action5\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -35,15 +36,14 @@ Lang=none
 
 [TulipInfo]
 ProductName=Micro Focus Unified Functional Testing
-Version=15.0
+Version=15.0.1
 
 [TulipAddins]
 AI=
 Database=
 File Content=
 Insight=
-Mobile=
-Oracle=
+SAP NWBC Desktop=
 SAP=
 SAPUI5=
 SAPWDJ=
@@ -75,3 +75,6 @@ Action1\ObjectRepository.bdb=
 Action4\Script.mts=
 Action4\Resource.mtr=
 Action4\ObjectRepository.bdb=
+Action5\Script.mts=
+Action5\Resource.mtr=
+Action5\ObjectRepository.bdb=
