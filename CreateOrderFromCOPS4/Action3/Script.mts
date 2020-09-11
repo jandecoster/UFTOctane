@@ -15,6 +15,7 @@ wait 5
 
 AiUtil.SetContext Browser("GA 37-100 AP 230 | QAS")
 AIUtil("down_triangle", micNoText, micFromTop, 2).Hover
+AIUtil("down_triangle", micNoText, micFromTop, 2).Click
 
 x =Browser("GA 37-100 AP 230 | QAS").Page("Breakdown - Low dew point_2").WebButton("WebButton").GetROProperty("abs_x")
  y=Browser("GA 37-100 AP 230 | QAS").Page("Breakdown - Low dew point_2").WebButton("WebButton").GetROProperty("abs_y")
